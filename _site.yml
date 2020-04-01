@@ -1,0 +1,7 @@
+name: "my-website"
+navbar:
+  left:
+    - text: "About"
+      href: index.html
+    - text: "Beer Analytics"
+      href: Case_Study_Work_01.pdf
